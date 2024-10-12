@@ -15,22 +15,89 @@
 }
 #logo{
     position: fixed;
-    top: -25px;
-    left: -5px;
-    width: 200px;
+    top: 0;
+    left: 0;
+    width: 100px;
     cursor: pointer;
 }
 #avatar{
     position: fixed;
+    top: 0;
+    right: 0;
     margin-top: -10px;
     right: 20px;
     width: 100px;
     cursor: pointer;
 }
 #profile{
-    color: yellow;
+    color: rgb(0, 0, 0);
+    font-weight: 800;
     position: fixed;
-    top: 85px;
-    right: 45px;
+    top: 65px;
+    right: 41px;
     cursor: pointer;
+}
+
+
+
+@media (max-width: 768px) {
+    .navBar {
+        flex-direction: column;
+        padding: 10px;
+        height: auto;
+    }
+
+    #logo {
+        width: 80px;
+    }
+
+    #avatar {
+        width: 80px;
+    }
+
+    #profile {
+        top: 55px;
+        right: 20px;
+        font-size: 0.9rem;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .navBar {
+        padding: 15px;
+    }
+
+    #logo {
+        width: 90px;
+    }
+
+    #avatar {
+        width: 90px;
+    }
+
+    #profile {
+        top: 60px;
+        right: 30px;
+        font-size: 1rem;
+    }
+}
+
+@media (min-width: 1025px) {
+    .navBar {
+        padding: 20px;
+    }
+
+    #logo {
+        width: 100px;
+    }
+
+    #avatar {
+        width: 100px;
+    }
+
+    #profile {
+        top: 65px;
+        right: 41px;
+        font-size: 1.2rem;
+    }
 }

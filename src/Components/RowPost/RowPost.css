@@ -23,3 +23,58 @@
     max-height: 150px;
     margin-right: 10px;
 }
+
+
+@media (max-width: 768px) {
+    .row {
+        margin-left: 10px;
+    }
+
+    .posters {
+        padding: 10px;
+    }
+
+    .poster {
+        max-height: 200px;
+    }
+
+    .smallPoster {
+        max-height: 120px;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .row {
+        margin-left: 15px;
+    }
+
+    .posters {
+        padding: 15px;
+    }
+
+    .poster {
+        max-height: 225px;
+    }
+
+    .smallPoster {
+        max-height: 130px;
+    }
+}
+
+@media (min-width: 1025px) {
+    .row {
+        margin-left: 20px;
+    }
+
+    .posters {
+        padding: 20px;
+    }
+
+    .poster {
+        max-height: 250px;
+    }
+
+    .smallPoster {
+        max-height: 150px;
+    }
+}
