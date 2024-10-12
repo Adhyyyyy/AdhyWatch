@@ -1,6 +1,7 @@
 .row{
     margin-left: 20px;
     color: #fff;
+    margin-top: 30px;
 }
 
 .posters{
@@ -28,9 +29,12 @@
 @media (max-width: 768px) {
     .row {
         margin-left: 10px;
+        margin-top: 100px;
+        height: 150px;
     }
 
     .posters {
+        height: 500px;
         padding: 10px;
     }
 
@@ -39,7 +43,8 @@
     }
 
     .smallPoster {
-        max-height: 120px;
+        max-height: 200px;
+        
     }
 }
 

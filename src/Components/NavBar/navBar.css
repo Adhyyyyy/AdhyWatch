@@ -55,11 +55,6 @@
         width: 80px;
     }
 
-    #profile {
-        top: 55px;
-        right: 20px;
-        font-size: 0.9rem;
-    }
 }
 
 @media (min-width: 769px) and (max-width: 1024px) {
@@ -73,31 +68,5 @@
 
     #avatar {
         width: 90px;
-    }
-
-    #profile {
-        top: 60px;
-        right: 30px;
-        font-size: 1rem;
-    }
-}
-
-@media (min-width: 1025px) {
-    .navBar {
-        padding: 20px;
-    }
-
-    #logo {
-        width: 100px;
-    }
-
-    #avatar {
-        width: 100px;
-    }
-
-    #profile {
-        top: 65px;
-        right: 41px;
-        font-size: 1.2rem;
     }
 }
