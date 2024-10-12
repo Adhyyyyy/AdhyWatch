@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AdhyWatch/static/css/main.59966e89.css",
-    "main.js": "/AdhyWatch/static/js/main.cdcfb789.js",
+    "main.css": "/AdhyWatch/static/css/main.eb746ba8.css",
+    "main.js": "/AdhyWatch/static/js/main.dc6d532d.js",
     "static/js/453.ed3810f9.chunk.js": "/AdhyWatch/static/js/453.ed3810f9.chunk.js",
     "index.html": "/AdhyWatch/index.html",
-    "main.59966e89.css.map": "/AdhyWatch/static/css/main.59966e89.css.map",
-    "main.cdcfb789.js.map": "/AdhyWatch/static/js/main.cdcfb789.js.map",
+    "main.eb746ba8.css.map": "/AdhyWatch/static/css/main.eb746ba8.css.map",
+    "main.dc6d532d.js.map": "/AdhyWatch/static/js/main.dc6d532d.js.map",
     "453.ed3810f9.chunk.js.map": "/AdhyWatch/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.59966e89.css",
-    "static/js/main.cdcfb789.js"
+    "static/css/main.eb746ba8.css",
+    "static/js/main.dc6d532d.js"
   ]
 }
