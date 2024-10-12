@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AdhyWatch/static/css/main.d3a5fcf7.css",
+    "main.js": "/AdhyWatch/static/js/main.e998b31e.js",
+    "static/js/453.ed3810f9.chunk.js": "/AdhyWatch/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/AdhyWatch/index.html",
+    "main.d3a5fcf7.css.map": "/AdhyWatch/static/css/main.d3a5fcf7.css.map",
+    "main.e998b31e.js.map": "/AdhyWatch/static/js/main.e998b31e.js.map",
+    "453.ed3810f9.chunk.js.map": "/AdhyWatch/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3a5fcf7.css",
+    "static/js/main.e998b31e.js"
+  ]
+}
